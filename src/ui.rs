@@ -434,7 +434,7 @@ Nyasynth programmed by a2aaron
 github.com/a2aaron/nyasynth
 
 Modded by Littenboi
-github.com/Littenboi/nyasynth
+github.com/Littenboi/SHIFTINGsynth
 "#;
 
 fn image_shape(texture_handle: TextureHandle, rect: Rect) -> Shape {
